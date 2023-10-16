@@ -1,0 +1,2 @@
+var name="gayatri rajput";
+gs.info(name);
